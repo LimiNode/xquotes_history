@@ -13,8 +13,8 @@
 * Сжатые qhs* данные можно конвертировать обратно в CSV формат или слить вместе (слияние пока не поддерживается)
 * Для работы с qhs* и cvs файлами есть консольная программа
 
-Пример сжатия данных, котировки от Финам: [https://github.com/NewYaroslav/finam_history_quotes](https://github.com/NewYaroslav/finam_history_quotes)
-Котировки от Binary: [https://github.com/NewYaroslav/binary.com_history_quotes](https://github.com/NewYaroslav/binary.com_history_quotes)
+Пример сжатия данных, котировки от Финам: [https://github.com/LimiNode/finam_history_quotes](https://github.com/LimiNode/finam_history_quotes)
+Котировки от Binary: [https://github.com/LimiNode/binary.com_history_quotes](https://github.com/LimiNode/binary.com_history_quotes)
 
 ## Особенности
 
@@ -128,8 +128,8 @@ int err_trade = iMultipleQuotesHistory.trade(
 Данная библиотека для работы использует следующие внешние библиотеки
 
 * *Библиотека zstd (для работы с сжатыми файлами)* - [https://github.com/facebook/zstd](https://github.com/facebook/zstd)
-* *Библиотека xtime (для работы с меткой времени)* - [https://github.com/NewYaroslav/xtime_cpp.git](https://github.com/NewYaroslav/xtime_cpp.git)
-* *Библиотека banana-filesystem-cpp (для работы с файлами)* - [https://github.com/NewYaroslav/banana-filesystem-cpp](https://github.com/NewYaroslav/banana-filesystem-cpp)
+* *Библиотека xtime (для работы с меткой времени)* - [https://github.com/LimiNode/xtime_cpp.git](https://github.com/LimiNode/xtime_cpp.git)
+* *Библиотека banana-filesystem-cpp (для работы с файлами)* - [https://github.com/LimiNode/banana-filesystem-cpp](https://github.com/LimiNode/banana-filesystem-cpp)
 
 ## Структура хранилища котировок
 
