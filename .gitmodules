@@ -3,13 +3,13 @@
 	url = https://github.com/facebook/zstd.git
 [submodule "lib/xtime_cpp"]
 	path = lib/xtime_cpp
-	url = https://github.com/NewYaroslav/xtime_cpp.git
+	url = https://github.com/LimiNode/xtime_cpp.git
 [submodule "lib/banana-filesystem-cpp"]
 	path = lib/banana-filesystem-cpp
-	url = https://github.com/NewYaroslav/banana-filesystem-cpp.git
+	url = https://github.com/LimiNode/banana-filesystem-cpp.git
 [submodule "lib/json"]
 	path = lib/json
 	url = https://github.com/nlohmann/json.git
 [submodule "lib/ztime-cpp"]
 	path = lib/ztime-cpp
-	url = https://github.com/NewYaroslav/ztime-cpp.git
+	url = https://github.com/LimiNode/ztime-cpp.git
